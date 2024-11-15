@@ -7,7 +7,7 @@ export type UserInfo = {
   };
   location: {
     street: {
-      number: 8929;
+      number: number;
       name: string;
     };
     city: string;
