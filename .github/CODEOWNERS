@@ -1,0 +1,6 @@
+# Code owners review every pull request in this repository.
+# Written by the add-codeowners fleet workflow.
+# TODO(add-codeowners): this repository has no catalog-info.yaml, so no owner is known.
+# Replace @Bark-com/REPLACE-ME with the owning team before you merge.
+
+* @Bark-com/REPLACE-ME
